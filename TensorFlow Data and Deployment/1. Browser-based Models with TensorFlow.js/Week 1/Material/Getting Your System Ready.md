@@ -4,7 +4,7 @@ In this course you will be running all the examples and exercises locally on you
 Chrome
 To install the Chrome browser, simply visit the Chrome home page. 
 
-<img src="Getting Your System Ready-1.png">
+<img src="./images/Getting Your System Ready-1.png">
 
 Click the blue "Download Chrome" button to download the installation file to your machine.
 
